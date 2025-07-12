@@ -17,8 +17,8 @@ Brain Tumer Segmentation/
 ├── data/                   # Dataset directory
 ├── models/                 # Trained model files
 ├── notebooks/              # Jupyter notebooks
-├── src/                    # Source code
-├── results/                # Output results and visualizations
+
+├── Output/                # Output results and visualizations
 ├── requirements.txt        # Python dependencies
 └── README.md              # Project documentation
 ```
